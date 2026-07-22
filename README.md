@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Azzam&fontSize=50&fontColor=58a6ff&animation=twinkling&desc=Full%20Stack%20Developer%20%26%20AI%20Integrations&descSize=20&descAlignY=68&descAlign=50" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:0d1117&amp;height=220&amp;section=header&amp;text=Azzam&amp;fontSize=50&amp;fontColor=58a6ff&amp;animation=twinkling&amp;desc=Full%20Stack%20Developer%20%26%20AI%20Integrations&amp;descSize=20&amp;descAlignY=68&amp;descAlign=50" width="100%" />
   <!-- Tagline -->
   <p align="center">
     <i>🚀 Building scalable web applications & integrating cutting-edge AI solutions.</i>
