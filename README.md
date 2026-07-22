@@ -1,11 +1,7 @@
 ## Hi there 👋
 
 
-<div align="center">
-  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Azzam&fontSize=50&fontColor=58a6ff&animation=twinkling&desc=Full%20Stack%20Developer%20%26%20AI%20Integrations&descSize=20&descAlignY=68&descAlign=50" width="100%" />
-
-  <br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Azzam&fontSize=50&fontColor=58a6ff&animation=twinkling&desc=Full%20Stack%20Developer%20%26%20AI%20Integrations&descSize=20&descAlignY=68&descAlign=50" width="100%" />
 
   <!-- Tagline -->
   <p align="center">
