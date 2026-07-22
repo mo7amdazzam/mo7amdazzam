@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:0d1117&amp;height=220&amp;section=header&amp;text=Azzam&amp;fontSize=50&amp;fontColor=58a6ff&amp;animation=twinkling&amp;desc=Full%20Stack%20Developer%20%26%20AI%20Integrations&amp;descSize=20&amp;descAlignY=68&amp;descAlign=50" width="100%" />
-  <!-- Tagline -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi+There!+I'm+Azzam;Full+Stack+Developer;AI+Integrations+Specialist" alt="Typing SVG" />
+</div>
   <p align="center">
     <i>🚀 Building scalable web applications & integrating cutting-edge AI solutions.</i>
   </p>
