@@ -78,7 +78,9 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mo7amdazzam&theme=2077" alt="GitHub Summary" />
 </div>
-
+<div align="center">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo7amdazzam&show_icons=true&theme=dark)
+</div>
 ---
 
 ### 📫 Get in Touch
