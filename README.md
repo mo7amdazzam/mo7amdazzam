@@ -1,5 +1,5 @@
 <h1 align="center">Mohamed Asem Azzam</h1>
-<p align="center"><b>Backend & Full-Stack Software Engineer</b> · Giza, Egypt</p>
+<p align="center"><b>Full-Stack & AI Software Engineer</b> · Giza, Egypt</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-azzam-69b3b4264/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -15,7 +15,7 @@
 ## What I build
 - Backend APIs and data models on PostgreSQL / Supabase, with security enforced in the database
 - Full-stack web apps in React and Next.js, Arabic and English (RTL)
-- OCR and LLM pipelines for documents and warehouse labels
+- AI features: LLM integrations (Gemini, Groq, OpenRouter), OCR and document-intelligence pipelines
 
 ## Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
