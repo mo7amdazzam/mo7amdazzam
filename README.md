@@ -7,8 +7,6 @@
 </p>
 
 ## About
-- Co-founder & CTO of **VALYO**: an ERP / manufacturing execution system running in 2 factories with ~250 users.
-- Founder & CTO of **MARJ3**: a bilingual (English/Arabic) cloud EHR for Egyptian hospitals.
 - B.Sc. Computer Science & Artificial Intelligence, Beni Suef University (2026).
 - Both company codebases are private.
 
